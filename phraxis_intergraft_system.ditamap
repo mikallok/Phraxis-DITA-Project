@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Phraxis InterGraft System</title>
+    <topicref href="topics/supplies.dita"/>
+    <topicref href="tasks/venous_preparation.dita">
+        <topicref href="tasks/venous_implant.dita"/>
+    </topicref>
+    <topicref href="tasks/arterial_preparation.dita">
+        <topicref href="tasks/arterial_implant.dita"/>
+    </topicref>
+</map>

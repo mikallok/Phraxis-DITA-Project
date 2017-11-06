@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="arterial_implant">
+    <title>Arterial Implant Procedure</title>
+    <shortdesc>Arterial InterGraft implant procedure</shortdesc>
+    <taskbody>
+        <context>Follow these steps to implant the aterial InterGraft connection<p/></context>
+        <steps>
+            <step>
+                <cmd><xref href="arterial_preparation.dita#aterial_delivery"/></cmd>
+            </step>
+            <step>
+                <cmd>Identify arteriotomy site and mark with surgical clamp.</cmd>
+            </step>
+            <step>
+                <cmd>Attach vessel loops or vascular clamps for proximal and distal control of
+                    artery. Do not tighten at this stage.</cmd>
+            </step>
+            <step>
+                <cmd>Gain access to artery using a micropuncture kit, insert wire, remove needle and
+                    insert 4F sheath.</cmd>
+            </step>
+            <step>
+                <cmd>Exchange 4F sheath for 7F sheath - replace micropuncture wire with 0.0014"
+                    wire.</cmd>
+            </step>
+            <step>
+                <cmd>Load AIG delivery system over the 0.014" wire.</cmd>
+            </step>
+            <step>
+                <cmd>Under fluoroscopic guidance, advance AIG over the wire and into the artery
+                    approximately 1 - 2 cm past arteriotomy.</cmd>
+                <info>
+                    <fig id="fig_z5h_jqf_5bb">
+                        <p>Arrow points to clamp tip at arteriotomy site.</p>
+                    </fig>
+                </info>
+                <stepxmp><image href="../image/AIG-detail-final.jpg" id="image_v3t_5pf_5bb"
+                    /></stepxmp>
+            </step>
+            <step>
+                <cmd>Remove red deployment lock labeled D and position AIG marker band approximately
+                    2 cm central to clamp tip that marks the arteriotomy site.</cmd>
+            </step>
+            <step>
+                <cmd>Loosen T-B valve <b>B</b>.<image href="../image/AIG-final.JPG"
+                        id="image_ncw_1rf_5bb"/></cmd>
+            </step>
+            <step>
+                <cmd>Reconfirm marker band position, remove 7F sheath and deploy AIG under
+                    floroscopy using standard "pin and pull" technique until <b>only the tines</b>
+                    emerge from the delivery sheath.</cmd>
+            </step>
+            <step>
+                <cmd>Inflate positioning baloon, pull the inflated baloon back to engage tines,
+                    tighten T-B valve<b> B</b>.</cmd>
+                <info>
+                    <ol id="ol_hwd_nrf_5bb">
+                        <li>Slowly pull entire AIG system up vertically from artery until resistance
+                            is felt.</li>
+                    </ol>
+                </info>
+                <info>Resistance indicates apposition of the tines at the artery wall.</info>
+            </step>
+            <step>
+                <cmd>Complete deployment of the AIG using "pin and pull" technique, deflate balloon
+                    and remove entire system and guidewire.</cmd>
+            </step>
+            <step>
+                <cmd>Grasp protruding end of AIG to control bleeding, stabilize base of AIG by
+                    grasping.</cmd>
+                <info>
+                    <ol id="ol_dj1_hsf_5bb">
+                        <li>Insert AIG into graft.</li>
+                        <li>Remove clamp and verify flow through circuit.</li>
+                    </ol>
+                </info>
+            </step>
+            <step>
+                <cmd>Release vessel loops or vascular clamps, close incisions.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

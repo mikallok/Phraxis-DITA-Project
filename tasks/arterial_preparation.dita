@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="aterial_delivery">
+    <title>Arterial Delivery Preparation</title>
+    <shortdesc>Arterial InterGraft system preparation</shortdesc>
+    <taskbody>
+        <context>Follow these steps prior to delivering arterial InterGraft connection<p/></context>
+        <steps>
+            <step>
+                <cmd>Using sterile technique, open AIG package and place InterGraft delivery system
+                    in a sterile field.</cmd>
+                <info>
+                    <ol id="ol_ass_zmf_5bb">
+                        <li>Remove the white graft grippers.</li>
+                    </ol>
+                </info>
+            </step>
+            <step>
+                <cmd>Attach stopcocks to each of the two T-B ports <b>A</b>, <b>F</b> and open the
+                    valves <b>B</b>,<b>C</b>. Close valve C and flush sterile saline through port
+                        <b>F</b>. Close stopcock on port <b>F</b> and remove 10 cc syringe.</cmd>
+                <info><image id="image_c14_xxf_5bb" href="../image/AIG-final.JPG"/></info>
+                <info>
+                    <ol id="ol_cp1_mnf_5bb">
+                        <li>Close valve <b>B</b> and flush sterile saline through port
+                            <b>A</b>.</li>
+                        <li>Close stopcock on port <b>A</b> and remove 10 cc syringe.</li>
+                        <li>Flush guidewire lumen through port <b>G</b> using sterile saline.</li>
+                        <li>Gently tighten T-B valves <b>B</b>,<b>C</b>.</li>
+                    </ol>
+                </info>
+            </step>
+            <step>
+                <cmd>Attach stopcock to balloon luer <b>E</b>. Evacuate balloon using a 10 cc
+                    syringe, close stopcock and remove syringe.</cmd>
+                <info>
+                    <ol id="ol_qxp_b4f_5bb">
+                        <li>Draw up 50:50 contrast/saline soultion in a 3 cc syringe, attach to
+                            stopcock, open stopcock and inject solution.</li>
+                        <li>Visually confirm positioning balloon inflation.</li>
+                        <li>Withdraw contrast from the balloon, close the stopcock, and leave 3 cc
+                            syringe connected to luer.</li>
+                    </ol>
+                </info>
+            </step>
+            <step>
+                <cmd>Loosen T-B valves <b>B</b>,<b>C</b>, backload 0.014" wire into AIG delivery
+                    system and gently tighten T-B valve <b>B</b>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

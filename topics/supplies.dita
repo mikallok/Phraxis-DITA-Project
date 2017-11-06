@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="preparation">
+    <title>Pre-Procedure Checklist</title>
+    <shortdesc>Required supplies for InterGraft procedures</shortdesc>
+    <refbody>
+        <example>
+            <ul>
+                <li>Two micro puncture kits (needle, access wire, 4F sheath)</li>
+                <li>One 11F introducer sheath (maximum length 11 cm)</li>
+                <li>One 7F introducer sheath (maximum length 11 cm)</li>
+                <li>One 0.018" diamter soft tip guidewire (length 145 cm)</li>
+                <li>One 0.014" diameter soft tip guidewire (length 145-185 cm)</li>
+                <li>Three stopcocks</li>
+                <li>Graft tunneling set</li>
+                <li>Atraumatic vascular graft clamp</li>
+                <li>One each sterile 3 cc and 10 cc syringe</li>
+                <li>Sterile saline solution</li>
+                <li>Sterile 50:50 heparinized saline for flush</li>
+                <li>Contrast agent</li>
+                <li>6 mm sterile stright graft (non-tapered), length appropriate for planned AV
+                    access</li>
+            </ul>
+        </example>
+    </refbody>
+</reference>

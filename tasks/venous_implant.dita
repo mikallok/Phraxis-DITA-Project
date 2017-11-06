@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="untitled2">
+    <title>Venous Implant Procedure</title>
+    <shortdesc>Venous InterGraft implant procedure</shortdesc>
+    <taskbody>
+        <context>Follow these steps to implant the venous InterGraft connection<p/></context>
+        <steps>
+            <step>
+                <cmd><xref href="venous_preparation.dita"/></cmd>
+            </step>
+            <step>
+                <cmd>Pre-tunnel graft with ends adjacent to target vein and artery anastomotic sites
+                    using specified tunneling procedure.</cmd>
+            </step>
+            <step>
+                <cmd>Identify target venotomy site and mark with a surgical clamp.</cmd>
+            </step>
+            <step>
+                <cmd>Access the vein using micropuncture kit, insert wire, remove needle and insert
+                    4F sheath.</cmd>
+            </step>
+            <step>
+                <cmd>Exchange 4F sheath for 11F sheath--replace micropuncture wire with 0.018"
+                    wire.</cmd>
+            </step>
+            <step>
+                <cmd>Load VIG delivery system over the wire.</cmd>
+            </step>
+            <step>
+                <cmd>Under flouroscopic guidance, advance VIG over the wire and into vein,
+                    approximately 1 cm past venomy.</cmd>
+            </step>
+            <step>
+                <cmd>Remove blue deployment lock labeled B and position marker band approximately
+                    1cm peripheral to clamp.</cmd>
+                <info>
+                    <fig id="fig_z5h_jqf_5bb">
+                        <p>Arrow points to marker band.</p>
+                    </fig>
+                </info>
+                <stepxmp><image href="../image/VIG-detail-final.jpg" id="image_drq_v3f_5bb"
+                    /></stepxmp>
+            </step>
+            <step>
+                <cmd>Loosen T-B valve <b>C</b> and under fluoroscopic guidance slowly advance the
+                    hypotube until it just engages the VIG</cmd>
+                <info>"closes the gap"</info>
+                <info><image href="../image/VIG-final.JPG" id="image_mlt_flf_5bb"/></info>
+            </step>
+            <step>
+                <cmd>Reconfirm the marker band position and remove the 11F sheath from vein.</cmd>
+            </step>
+            <step>
+                <cmd>Deploy VIG under floroscopy using standard "pin and pull" technique, ensuring
+                    the marker bands and venotomy clamp remain in position throughout
+                    deployment.</cmd>
+            </step>
+            <step>
+                <cmd>Remove VIG delivery system and wire, gently grasp and compress protruding end
+                    of VIG to control bleeding and insert VIG into pre-tunneled graft end.</cmd>
+            </step>
+            <step>
+                <cmd>Verify blood flow through graft</cmd>
+                <info>
+                    <ol id="ol_ymy_rlf_5bb">
+                        <li>Clamp graft to stop venous back-bleeding</li>
+                        <li>Prepare 10 cc syringe with hepranized flush</li>
+                        <li>Remove graft clamp</li>
+                        <li>Flush graft</li>
+                        <li>Reattach clamp</li>
+                    </ol>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="venous_delivery">
+    <title>Venous Delivery Preparation</title>
+    <shortdesc>Venous InterGraft delivery system preparation</shortdesc>
+    <taskbody>
+        <context>Follow these steps prior to delivering venous InterGraft connection<p/></context>
+        <steps>
+            <step>
+                <cmd>Using sterile technique, open VIG package and place InterGraft delivery system
+                    in sterile field.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Remove the white graft grippers</cmd>
+                    </substep>
+                </substeps>
+                <info><image id="image_thn_syf_5bb" href="../image/VIG-final.JPG"/></info>
+            </step>
+            <step>
+                <cmd>Attach a stopcock to each of the T-B ports <b>D</b>,<b>E</b>. </cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Loosen the T-B valves <b>A</b>,<b>C</b>.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Using 10cc syringe, flush the delivery system with sterile saline solution.
+                    Close valve <b>A</b></cmd>
+            </step>
+            <step>
+                <cmd>To load the 0.018" guide wire into the VIG delivery system, loosen both T-B
+                    valves <b>A</b>, <b>C</b>.</cmd>
+                <info>
+                    <ol id="ol_jzb_2hf_5bb">
+                        <li>Backload wire into delivery system and gently close T-B valve
+                            <b>C</b>.</li>
+                    </ol>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

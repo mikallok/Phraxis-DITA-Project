@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Arterial Implant Procedure","shortdesc":"<p class=\"shortdesc\">Arterial InterGraft implant procedure<\/p>","id":"arterial_implant","href":"tasks\/arterial_implant.html","menu": {"hasChildren":false,},"tocID":"arterial_implant-d58e59","topics":[]}]});
