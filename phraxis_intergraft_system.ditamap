@@ -3,10 +3,10 @@
 <map>
     <title>Phraxis InterGraft System</title>
     <topicref href="topics/supplies.dita"/>
-    <topicref href="tasks/venous_preparation.dita">
-        <topicref href="tasks/venous_implant.dita"/>
+    <topicref href="tasks/venous_implant.dita">
+        <topicref href="tasks/venous_preparation.dita"/>
     </topicref>
-    <topicref href="tasks/arterial_preparation.dita">
-        <topicref href="tasks/arterial_implant.dita"/>
+    <topicref href="tasks/arterial_implant.dita">
+        <topicref href="tasks/arterial_preparation.dita"/>
     </topicref>
 </map>

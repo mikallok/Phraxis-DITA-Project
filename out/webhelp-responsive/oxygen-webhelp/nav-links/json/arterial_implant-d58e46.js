@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Arterial Delivery Preparation","shortdesc":"<p class=\"shortdesc\">Arterial InterGraft system preparation<\/p>","id":"aterial_delivery","href":"tasks\/arterial_preparation.html","menu": {"hasChildren":false,},"tocID":"aterial_delivery-d58e57","topics":[]}]});
