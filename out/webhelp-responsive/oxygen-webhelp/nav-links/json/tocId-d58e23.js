@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Required Supplies","shortdesc":"<p class=\"shortdesc\">Prepare these items prior to the InterGraft procedure<\/p>","id":"preparation","href":"topics\/supplies.html","menu": {"hasChildren":false,},"tocID":"preparation-d58e24","topics":[]}]});

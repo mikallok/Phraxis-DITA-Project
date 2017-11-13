@@ -2,11 +2,16 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Phraxis InterGraft System</title>
-    <topicref href="topics/supplies.dita"/>
-    <topicref href="tasks/venous_implant.dita">
-        <topicref href="tasks/venous_preparation.dita"/>
-    </topicref>
-    <topicref href="tasks/arterial_implant.dita">
-        <topicref href="tasks/arterial_preparation.dita"/>
-    </topicref>
+    <topicref href="topics/The%20InterGraft%20System.dita"/>
+    <topichead navtitle="Pre-Procedure Checklist" type="reference">
+        <topicref href="topics/supplies.dita"/>
+    </topichead>
+    <topichead navtitle="Deliver the InterGraft System" type="task">
+        <topicref href="tasks/arterial_preparation.dita">
+            <topicref href="tasks/arterial_implant.dita"/>
+        </topicref>
+        <topicref href="tasks/venous_preparation.dita">
+            <topicref href="tasks/venous_implant.dita"/>
+        </topicref>
+    </topichead>
 </map>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
+   <appContext helpID="concept_vfr_1ny_vbb"
+               path="topics/The%20InterGraft%20System.html"/>
    <appContext helpID="preparation" path="topics/supplies.html"/>
-   <appContext helpID="untitled2" path="tasks/venous_implant.html"/>
-   <appContext helpID="venous_delivery" path="tasks/venous_preparation.html"/>
-   <appContext helpID="arterial_implant" path="tasks/arterial_implant.html"/>
    <appContext helpID="aterial_delivery" path="tasks/arterial_preparation.html"/>
+   <appContext helpID="arterial_implant" path="tasks/arterial_implant.html"/>
+   <appContext helpID="venous_delivery" path="tasks/venous_preparation.html"/>
+   <appContext helpID="untitled2" path="tasks/venous_implant.html"/>
 </map>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="aterial_delivery">
-    <title>Arterial Delivery Preparation</title>
+    <title>Prepare Arterial InterGraft</title>
     <shortdesc>Arterial InterGraft system preparation</shortdesc>
     <taskbody>
         <context>Follow these steps prior to delivering arterial InterGraft connection<p/></context>
@@ -9,11 +9,9 @@
             <step>
                 <cmd>Using sterile technique, open AIG package and place InterGraft delivery system
                     in a sterile field.</cmd>
-                <info>
-                    <ol id="ol_ass_zmf_5bb">
-                        <li>Remove the white graft grippers.</li>
-                    </ol>
-                </info>
+            </step>
+            <step>
+                <cmd>Remove the white graft grippers.</cmd>
             </step>
             <step>
                 <cmd>Attach stopcocks to each of the two T-B ports <b>A</b>, <b>F</b> and open the

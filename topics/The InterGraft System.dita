@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_vfr_1ny_vbb">
+    <title>The InterGraft System</title>
+    <shortdesc>The InterGraft system is a minimally invasive procedure for delivering an
+        arteriovenus graft.</shortdesc>
+    <conbody>
+        <p>The Phraxis InterGraft System connects a standard 6-millimeter arteriovenous graft
+            without sutures. The connectors are delivered via a catheter, and they employ stent-like
+            technology to provide both venous and arterial flow to the graft. Unlike a standard
+            sutured graft, the InterGraft System is designed to provide a smooth, controlled
+            flow.The InterGraft System is a minimally invasive procedure that takes about 30
+            minutes, and can provide next-day vascular access for hemodialysis.</p>
+        <image href="../image/phraxis_banner.jpg" id="image_mmb_t1z_vbb"/>
+    </conbody>
+</concept>

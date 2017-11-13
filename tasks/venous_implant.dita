@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="untitled2">
-    <title>Venous Implant Procedure</title>
+    <title>Deliver Venous InterGraft</title>
     <shortdesc>Venous InterGraft implant procedure</shortdesc>
     <taskbody>
         <context>Follow these steps to implant the venous InterGraft connection<p/></context>
@@ -44,7 +44,7 @@
             </step>
             <step>
                 <cmd>Loosen T-B valve <b>C</b> and under fluoroscopic guidance slowly advance the
-                    hypotube until it just engages the VIG</cmd>
+                    hypotube until it just engages the VIG or</cmd>
                 <info>"closes the gap"</info>
                 <info><image href="../image/VIG-final.JPG" id="image_mlt_flf_5bb"/></info>
             </step>

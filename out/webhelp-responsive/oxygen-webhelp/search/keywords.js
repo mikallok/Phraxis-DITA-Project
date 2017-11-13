@@ -1,7 +1,8 @@
-var keywords=[{w:"Arterial",p:["p0","p1"]},{w:"Implant",p:["p0","p2"]},{w:"Procedure",p:["p0","p2"]},{w:"Delivery",p:["p1","p3"]},{w:"Preparation",p:["p1","p3"]},{w:"Venous",p:["p2","p3"]},{w:"Pre-Procedure",p:["p4"]},{w:"Checklist",p:["p4"]}];
+var keywords=[{w:"Deliver",p:["p0","p2"]},{w:"Arterial",p:["p0","p1"]},{w:"InterGraft",p:["p0","p1","p2","p3","p4"]},{w:"Prepare",p:["p1","p3"]},{w:"Venous",p:["p2","p3"]},{w:"The",p:["p4"]},{w:"System",p:["p4"]},{w:"Required",p:["p5"]},{w:"Supplies",p:["p5"]}];
 var ph={};
 ph["p0"]=[0, 1, 2];
-ph["p1"]=[0, 3, 4];
-ph["p2"]=[5, 1, 2];
-ph["p3"]=[5, 3, 4];
-ph["p4"]=[6, 7];
+ph["p1"]=[3, 1, 2];
+ph["p2"]=[0, 4, 2];
+ph["p3"]=[3, 4, 2];
+ph["p4"]=[5, 2, 6];
+ph["p5"]=[7, 8];
