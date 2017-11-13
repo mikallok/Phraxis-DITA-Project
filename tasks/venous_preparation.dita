@@ -9,11 +9,9 @@
             <step>
                 <cmd>Using sterile technique, open VIG package and place InterGraft delivery system
                     in sterile field.</cmd>
-                <substeps>
-                    <substep>
-                        <cmd>Remove the white graft grippers</cmd>
-                    </substep>
-                </substeps>
+            </step>
+            <step>
+                <cmd>Remove the white graft grippers.</cmd>
                 <info><image id="image_thn_syf_5bb" href="../image/VIG-final.JPG"/></info>
             </step>
             <step>
