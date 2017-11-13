@@ -45,6 +45,9 @@
                 <cmd>Loosen T-B valves <b>B</b>,<b>C</b>, backload 0.014" wire into AIG delivery
                     system and gently tighten T-B valve <b>B</b>.</cmd>
             </step>
+            <step>
+                <cmd><xref href="arterial_implant.dita#arterial_implant"/></cmd>
+            </step>
         </steps>
     </taskbody>
 </task>

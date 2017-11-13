@@ -6,7 +6,7 @@
     <topichead navtitle="Pre-Procedure Checklist" type="reference">
         <topicref href="topics/supplies.dita"/>
     </topichead>
-    <topichead navtitle="Deliver the InterGraft System" type="task">
+    <topichead navtitle="InterGraft System Procedure" type="task">
         <topicref href="tasks/arterial_preparation.dita">
             <topicref href="tasks/arterial_implant.dita"/>
         </topicref>

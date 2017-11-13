@@ -36,6 +36,9 @@
                     </ol>
                 </info>
             </step>
+            <step>
+                <cmd><xref href="venous_implant.dita#untitled2"/></cmd>
+            </step>
         </steps>
     </taskbody>
 </task>
