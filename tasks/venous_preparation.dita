@@ -15,10 +15,10 @@
                 <info><image id="image_thn_syf_5bb" href="../image/VIG-final.JPG"/></info>
             </step>
             <step>
-                <cmd>Attach a stopcock to each of the T-B ports <b>D</b>,<b>E</b>. </cmd>
+                <cmd>Attach a stopcock to each of the T-B ports <b>D</b>, <b>E</b>. </cmd>
                 <substeps>
                     <substep>
-                        <cmd>Loosen the T-B valves <b>A</b>,<b>C</b>.</cmd>
+                        <cmd>Loosen the T-B valves <b>A</b>, <b>C</b>.</cmd>
                     </substep>
                 </substeps>
             </step>
@@ -27,10 +27,10 @@
                     Close valve <b>A</b></cmd>
             </step>
             <step>
-                <cmd>To load the 0.018" guide wire into the VIG delivery system, loosen both T-B
-                    valves <b>A</b>, <b>C</b>.</cmd>
+                <cmd>loosen both T-B valves <b>A</b>, <b>C</b>.</cmd>
                 <info>
                     <ol id="ol_jzb_2hf_5bb">
+                        <li>Load the 0.018" guide wire into the VIG delivery system. </li>
                         <li>Backload wire into delivery system and gently close T-B valve
                             <b>C</b>.</li>
                     </ol>

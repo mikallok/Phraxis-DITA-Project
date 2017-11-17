@@ -52,10 +52,11 @@
                     emerge from the delivery sheath.</cmd>
             </step>
             <step>
-                <cmd>Inflate positioning baloon, pull the inflated baloon back to engage tines,
-                    tighten T-B valve<b> B</b>.</cmd>
+                <cmd>Inflate positioning baloon.</cmd>
                 <info>
                     <ol id="ol_hwd_nrf_5bb">
+                        <li>Pull the inflated baloon back to engage tines, tighten T-B valve<b>
+                                B</b>.</li>
                         <li>Slowly pull entire AIG system up vertically from artery until resistance
                             is felt.</li>
                     </ol>
