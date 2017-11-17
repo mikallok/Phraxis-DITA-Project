@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Michael Kallok\Desktop\Phraxis-DITA-Project\temp\docx\oxygen_dita_temp\tasks?><?workdir-uri file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/temp/docx/oxygen_dita_temp/tasks/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="arterial_implant" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="task:1;3:29">
+    <title class="- topic/title " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="title:1;4:12">Deliver Arterial InterGraft</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="shortdesc:1;5:16">Arterial InterGraft implant procedure</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="context:1;7:18">Follow these steps to implant the aterial InterGraft connection<p class="- topic/p " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="p:1;7:85"/></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="steps:1;8:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="step:1;9:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="cmd:1;10:22"><xref href="arterial_preparation.dita#aterial_delivery" class="- topic/xref " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="xref:1;10:79" type="task"><?ditaot gentext?>Prepare Arterial InterGraft<?ditaot genshortdesc?><desc class="- topic/desc ">Arterial InterGraft system preparation</desc></xref></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="step:2;12:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="cmd:2;13:22">Identify arteriotomy site and mark with surgical clamp.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="step:3;15:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="cmd:3;16:22">Attach vessel loops or vascular clamps for proximal and distal control of
+                    artery. Do not tighten at this stage.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="step:4;19:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="cmd:4;20:22">Gain access to artery using a micropuncture kit, insert wire, remove needle and
+                    insert 4F sheath.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="step:5;23:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="cmd:5;24:22">Exchange 4F sheath for 7F sheath - replace micropuncture wire with 0.0014"
+                    wire.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="step:6;27:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="cmd:6;28:22">Load AIG delivery system over the 0.014" wire.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="step:7;30:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="cmd:7;31:22">Under fluoroscopic guidance, advance AIG over the wire and into the artery
+                    approximately 1 - 2 cm past arteriotomy.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="info:1;33:23">
+                    <fig id="fig_z5h_jqf_5bb" class="- topic/fig " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="fig:1;34:47">
+                        <p class="- topic/p " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="p:2;35:28">Arrow points to clamp tip at arteriotomy site.</p>
+                    </fig>
+                </info>
+                <stepxmp class="- topic/itemgroup task/stepxmp " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="stepxmp:1;38:26"><image href="../image/AIG-detail-final.jpg" id="image_v3t_5pf_5bb" placement="inline" class="- topic/image " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="image:1;39:23" dita-ot:image-width="488" dita-ot:image-height="310"/></stepxmp>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="step:8;41:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="cmd:8;42:22">Remove red deployment lock labeled D and position AIG marker band approximately
+                    2 cm central to clamp tip that marks the arteriotomy site.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="step:9;45:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="cmd:9;46:22">Loosen T-B valve <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="b:1;46:42">B</b>.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="info:2;47:23"><image href="../image/AIG-final.JPG" id="image_ncw_1rf_5bb" placement="inline" class="- topic/image " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="image:2;47:84" dita-ot:image-width="600" dita-ot:image-height="110"/>
+                </info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="step:10;50:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="cmd:10;51:22">Reconfirm marker band position, remove 7F sheath and deploy AIG under
+                    floroscopy using standard "pin and pull" technique until <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="b:2;52:81">only the tines</b>
+                    emerge from the delivery sheath.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="step:11;55:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="cmd:11;56:22">Inflate positioning baloon.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="info:3;57:23">
+                    <ol id="ol_hwd_nrf_5bb" class="- topic/ol " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="ol:1;58:45">
+                        <li class="- topic/li " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="li:1;59:29">Pull the inflated baloon back to engage tines, tighten T-B valve<b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="b:3;59:96">
+                                B</b>.</li>
+                        <li class="- topic/li " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="li:2;61:29">Slowly pull entire AIG system up vertically from artery until resistance
+                            is felt.</li>
+                    </ol>
+                </info>
+                <info class="- topic/itemgroup task/info " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="info:4;65:23">Resistance indicates apposition of the tines at the artery wall.</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="step:12;67:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="cmd:12;68:22">Complete deployment of the AIG using "pin and pull" technique, deflate balloon
+                    and remove entire system and guidewire.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="step:13;71:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="cmd:13;72:22">Grasp protruding end of AIG to control bleeding, stabilize base of AIG by
+                    grasping.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="info:5;74:23">
+                    <ol id="ol_dj1_hsf_5bb" class="- topic/ol " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="ol:2;75:45">
+                        <li class="- topic/li " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="li:3;76:29">Insert AIG into graft.</li>
+                        <li class="- topic/li " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="li:4;77:29">Remove clamp and verify flow through circuit.</li>
+                    </ol>
+                </info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="step:14;81:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/tasks/arterial_implant.dita" xtrc="cmd:14;82:22">Release vessel loops or vascular clamps, close incisions.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

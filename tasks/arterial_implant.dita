@@ -43,8 +43,9 @@
                     2 cm central to clamp tip that marks the arteriotomy site.</cmd>
             </step>
             <step>
-                <cmd>Loosen T-B valve <b>B</b>.<image href="../image/AIG-final.JPG"
-                        id="image_ncw_1rf_5bb"/></cmd>
+                <cmd>Loosen T-B valve <b>B</b>.</cmd>
+                <info><image href="../image/AIG-final.JPG" id="image_ncw_1rf_5bb"/>
+                </info>
             </step>
             <step>
                 <cmd>Reconfirm marker band position, remove 7F sheath and deploy AIG under

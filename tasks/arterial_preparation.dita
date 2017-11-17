@@ -4,7 +4,7 @@
     <title>Prepare Arterial InterGraft</title>
     <shortdesc>Arterial InterGraft system preparation</shortdesc>
     <taskbody>
-        <context>Follow these steps prior to delivering arterial InterGraft connection<p/></context>
+        <context>Follow these steps prior to delivering arterial InterGraft connection</context>
         <steps>
             <step>
                 <cmd>Using sterile technique, open AIG package and place InterGraft delivery system
@@ -15,11 +15,12 @@
             </step>
             <step>
                 <cmd>Attach stopcocks to each of the two T-B ports <b>A</b>, <b>F</b> and open the
-                    valves <b>B</b>,<b>C</b>. Close valve C and flush sterile saline through port
-                        <b>F</b>. Close stopcock on port <b>F</b> and remove 10 cc syringe.</cmd>
+                    valves <b>B</b>, <b>C</b>.</cmd>
                 <info><image id="image_c14_xxf_5bb" href="../image/AIG-final.JPG"/></info>
                 <info>
                     <ol id="ol_cp1_mnf_5bb">
+                        <li>Close valve <b>C</b> and flush sterile saline through port <b>F</b>. </li>
+                        <li>Close stopcock on port <b>F</b> and remove 10 cc syringe.</li>
                         <li>Close valve <b>B</b> and flush sterile saline through port
                             <b>A</b>.</li>
                         <li>Close stopcock on port <b>A</b> and remove 10 cc syringe.</li>

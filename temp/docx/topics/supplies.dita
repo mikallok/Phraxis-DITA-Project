@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Michael Kallok\Desktop\Phraxis-DITA-Project\temp\docx\topics?><?workdir-uri file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/temp/docx/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="preparation" ditaarch:DITAArchVersion="1.3" domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic       reference/reference " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/topics/supplies.dita" xtrc="reference:1;3:29">
+    <title class="- topic/title " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/topics/supplies.dita" xtrc="title:1;4:12">Required Supplies</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/topics/supplies.dita" xtrc="shortdesc:1;5:16">Prepare these items prior to the InterGraft procedure</shortdesc>
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/topics/supplies.dita" xtrc="refbody:1;6:14">
+        <example class="- topic/example " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/topics/supplies.dita" xtrc="example:1;7:18">
+            <ul class="- topic/ul " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/topics/supplies.dita" xtrc="ul:1;8:17">
+                <li class="- topic/li " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/topics/supplies.dita" xtrc="li:1;9:21">Two micro puncture kits (needle, access wire, 4F sheath)</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/topics/supplies.dita" xtrc="li:2;10:21">One 11F introducer sheath (maximum length 11 cm)</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/topics/supplies.dita" xtrc="li:3;11:21">One 7F introducer sheath (maximum length 11 cm)</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/topics/supplies.dita" xtrc="li:4;12:21">One 0.018" diamter soft tip guidewire (length 145 cm)</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/topics/supplies.dita" xtrc="li:5;13:21">One 0.014" diameter soft tip guidewire (length 145-185 cm)</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/topics/supplies.dita" xtrc="li:6;14:21">Three stopcocks</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/topics/supplies.dita" xtrc="li:7;15:21">Graft tunneling set</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/topics/supplies.dita" xtrc="li:8;16:21">Atraumatic vascular graft clamp</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/topics/supplies.dita" xtrc="li:9;17:21">One each sterile 3 cc and 10 cc syringe</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/topics/supplies.dita" xtrc="li:10;18:21">Sterile saline solution</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/topics/supplies.dita" xtrc="li:11;19:21">Sterile 50:50 heparinized saline for flush</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/topics/supplies.dita" xtrc="li:12;20:21">Contrast agent</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Michael%20Kallok/Desktop/Phraxis-DITA-Project/topics/supplies.dita" xtrc="li:13;21:21">6 mm sterile stright graft (non-tapered), length appropriate for planned AV
+                    access</li>
+            </ul>
+        </example>
+    </refbody>
+</reference>
