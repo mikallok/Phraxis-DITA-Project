@@ -16,11 +16,9 @@
             </step>
             <step>
                 <cmd>Attach a stopcock to each of the T-B ports <b>D</b>, <b>E</b>. </cmd>
-                <substeps>
-                    <substep>
-                        <cmd>Loosen the T-B valves <b>A</b>, <b>C</b>.</cmd>
-                    </substep>
-                </substeps>
+            </step>
+            <step>
+                <cmd>Loosen the T-B valves <b>A</b>, <b>C</b>.</cmd>
             </step>
             <step>
                 <cmd>Using 10cc syringe, flush the delivery system with sterile saline solution.
