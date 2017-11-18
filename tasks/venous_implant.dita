@@ -57,8 +57,14 @@
                     deployment.</cmd>
             </step>
             <step>
-                <cmd>Remove VIG delivery system and wire, gently grasp and compress protruding end
-                    of VIG to control bleeding and insert VIG into pre-tunneled graft end.</cmd>
+                <cmd>Remove VIG delivery system and wire.</cmd>
+                <info>
+                    <ol id="ol_cgc_fxj_xbb">
+                        <li>Gently grasp and compress protruding end of VIG to control
+                            bleeding.</li>
+                        <li>Insert VIG into pre-tunneled graft end.</li>
+                    </ol>
+                </info>
             </step>
             <step>
                 <cmd>Verify blood flow through graft</cmd>

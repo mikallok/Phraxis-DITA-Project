@@ -14,11 +14,11 @@
             </step>
             <step>
                 <cmd>Attach vessel loops or vascular clamps for proximal and distal control of
-                    artery. Do not tighten at this stage.</cmd>
+                    artery. <b>Do not tighten at this stage</b>.</cmd>
             </step>
             <step>
-                <cmd>Gain access to artery using a micropuncture kit, insert wire, remove needle and
-                    insert 4F sheath.</cmd>
+                <cmd>Gain access to artery using a micropuncture kit, insert wire, remove needle,
+                    and insert 4F sheath.</cmd>
             </step>
             <step>
                 <cmd>Exchange 4F sheath for 7F sheath - replace micropuncture wire with 0.0014"
@@ -65,14 +65,19 @@
                 <info>Resistance indicates apposition of the tines at the artery wall.</info>
             </step>
             <step>
-                <cmd>Complete deployment of the AIG using "pin and pull" technique, deflate balloon
-                    and remove entire system and guidewire.</cmd>
+                <cmd>Complete deployment of the AIG using "pin and pull" technique. </cmd>
+                <info>
+                    <ol id="ol_kdp_gyj_xbb">
+                        <li>Deflate balloon. </li>
+                        <li>Remove entire system and guidewire.</li>
+                    </ol>
+                </info>
             </step>
             <step>
-                <cmd>Grasp protruding end of AIG to control bleeding, stabilize base of AIG by
-                    grasping.</cmd>
+                <cmd>Grasp protruding end of AIG to control bleeding.</cmd>
                 <info>
                     <ol id="ol_dj1_hsf_5bb">
+                        <li>Stabilize base of AIG by grasping.</li>
                         <li>Insert AIG into graft.</li>
                         <li>Remove clamp and verify flow through circuit.</li>
                     </ol>
@@ -80,6 +85,9 @@
             </step>
             <step>
                 <cmd>Release vessel loops or vascular clamps, close incisions.</cmd>
+            </step>
+            <step>
+                <cmd><xref href="venous_preparation.dita#venous_delivery"/></cmd>
             </step>
         </steps>
     </taskbody>
